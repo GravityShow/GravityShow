@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GravityShow, 
-- 👀 I’m interested in Backend dev. and SW testing,
-- 🌱 I’m currently learning Python and now, I´m somewhere at Junior lvl
+- 👀 I’m working in Django to create web apps.
+- 🌱 I’m currently mastering my Python, Django, SQL, HTML & CSS and JavaScript skills.
 
 
 <!---
